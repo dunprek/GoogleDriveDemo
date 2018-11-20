@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:grantUriPermissions
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:30:13-47
+	android:authorities
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:28:13-60
+	android:exported
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:27:13-67
+manifest
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1748fbb7e6a007c74059bf80e355ff60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d27835502ba7c82a001533cfe3a289c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/3192cbffb1bab8baf00e8f4e37cba218/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/7c6bf557ef99737421767dcb8a6d1f5e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/ecd8c9f2dc5130967691c5f5639442b0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/fa07587e1ee439b2450f6530987d0404/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/557b0f7983b1920462aacc15ee373467/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9d6062b68d6a54c030261300e05ef6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/168d5d60508860f6baaf8966dd73e13c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e905998fa34456fcdae9e3a459c7755e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/eee4f4439a448b7e8d9bda53755a817d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9df97e25f9fdf10fec8b42346065ce79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/106423834237bba8d89eafabf1a59c22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24ddecc5dbeca5049b0fb4ae2b0226c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d1566ffa5baf9d01d7c70a969d75993a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4f552c5f0986e7690af4bc8a1101e231/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c660720aaaf6a7c1b466e4214276d381/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88a8f553e3cb95224653ec617a98fb60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b4e9754ab1f760f0568b61e0f7a261b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e068de51107f3e5f94691b906142e01/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/358adc9b070cc1cc64cc0c8f102ec6ce/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:5:5-48
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:9:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/3192cbffb1bab8baf00e8f4e37cba218/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/3192cbffb1bab8baf00e8f4e37cba218/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/7c6bf557ef99737421767dcb8a6d1f5e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/7c6bf557ef99737421767dcb8a6d1f5e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/557b0f7983b1920462aacc15ee373467/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/557b0f7983b1920462aacc15ee373467/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:15:9-40
+meta-data#com.google.android.gms.version
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:17:9-19:68
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:18:13-58
+activity#com.raywenderlich.googledrivedemo.MainActivity
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:20:9-25:20
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1748fbb7e6a007c74059bf80e355ff60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1748fbb7e6a007c74059bf80e355ff60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d27835502ba7c82a001533cfe3a289c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d27835502ba7c82a001533cfe3a289c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/3192cbffb1bab8baf00e8f4e37cba218/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.1.aar/3192cbffb1bab8baf00e8f4e37cba218/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/7c6bf557ef99737421767dcb8a6d1f5e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-drive-15.0.1.aar/7c6bf557ef99737421767dcb8a6d1f5e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/ecd8c9f2dc5130967691c5f5639442b0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/ecd8c9f2dc5130967691c5f5639442b0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/fa07587e1ee439b2450f6530987d0404/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/fa07587e1ee439b2450f6530987d0404/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/557b0f7983b1920462aacc15ee373467/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/557b0f7983b1920462aacc15ee373467/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dec24f09337b5266a19914c17e3de0ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9d6062b68d6a54c030261300e05ef6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9d6062b68d6a54c030261300e05ef6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/168d5d60508860f6baaf8966dd73e13c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/168d5d60508860f6baaf8966dd73e13c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e905998fa34456fcdae9e3a459c7755e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e905998fa34456fcdae9e3a459c7755e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/eee4f4439a448b7e8d9bda53755a817d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/eee4f4439a448b7e8d9bda53755a817d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9df97e25f9fdf10fec8b42346065ce79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9df97e25f9fdf10fec8b42346065ce79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/106423834237bba8d89eafabf1a59c22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/106423834237bba8d89eafabf1a59c22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24ddecc5dbeca5049b0fb4ae2b0226c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/24ddecc5dbeca5049b0fb4ae2b0226c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d1566ffa5baf9d01d7c70a969d75993a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d1566ffa5baf9d01d7c70a969d75993a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4f552c5f0986e7690af4bc8a1101e231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4f552c5f0986e7690af4bc8a1101e231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c660720aaaf6a7c1b466e4214276d381/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c660720aaaf6a7c1b466e4214276d381/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88a8f553e3cb95224653ec617a98fb60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/88a8f553e3cb95224653ec617a98fb60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b4e9754ab1f760f0568b61e0f7a261b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b4e9754ab1f760f0568b61e0f7a261b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e068de51107f3e5f94691b906142e01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e068de51107f3e5f94691b906142e01/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/358adc9b070cc1cc64cc0c8f102ec6ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gideon/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/358adc9b070cc1cc64cc0c8f102ec6ce/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:31:13-33:57
+	android:resource
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:33:17-55
+	android:name
+		ADDED from /Users/gideon/Downloads/GoogleDrive-materials/GoogleDriveDemo/app/src/main/AndroidManifest.xml:32:17-67
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/196ee1bd5355e7623b5d9dbc72e44697/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/gideon/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a12a5ea4200453098d410d334254b03c/AndroidManifest.xml:24:13-79
